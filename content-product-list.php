@@ -1,7 +1,8 @@
 <?php
 /**
  * The template used for displaying page content in page.php
- * modified for use in marketpress to display content-product-list in mp_product-list.php
+ * modified for use in marketpress to display product-list
+ * may be called by mp_category.php, mp_tag.php, etc.
  * @package Catch Themes
  * @subpackage Catch_Box
  * @since Catch Box 1.0
