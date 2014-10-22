@@ -19,7 +19,7 @@
 		<?php
 			mp_product_image( true, 'list' ); // 'list' because we want to link to product.
 			the_excerpt();
-			mp_product_meta( true, 'single' ); // 'single' because we want to show option drop-down  and buy button.
+			mp_product_meta( true, 'single' ); // 'single' because we want to show option price drop-down and add-to-cart button.
 		?>
 
 	</div><!-- .entry-content -->
